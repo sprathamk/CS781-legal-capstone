@@ -56,3 +56,4 @@ Each notebook trains all experiments of its phase and writes one submission zip 
 4. **Run All.** Submission zips appear under `/kaggle/working/`.
 
 Notebooks save checkpoints and skip experiments that are already finished, so a run can be resumed by attaching its previous output. To run only some experiments, edit `RUN_EXPERIMENTS` in the configuration cell.
+# CS781-legal-capstone
